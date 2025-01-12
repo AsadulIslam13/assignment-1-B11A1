@@ -306,3 +306,15 @@ main section{
     font-weight: 200;
     
 }
+.bt{
+    text-align: center;
+    padding: 5px;
+}
+.btn-last{
+    background-color: #006A50;
+    font-weight: 200;
+    border: 2px solid #006A50;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px; 
+}
