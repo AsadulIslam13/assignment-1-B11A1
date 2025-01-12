@@ -16,7 +16,17 @@
     color: #006A50;
     padding: 10px 15px;
 
+} 
+.btn-primary2{
+    background-color: #006A50;
+    font-weight: bold;
+    border: 2px solid #006A50;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px;
+
 }
+
 
 /*nav styles*/
 nav{
@@ -39,4 +49,32 @@ nav li a{
 }
 nav ul{
     display: flex;
+}
+/*banner styles*/
+.banner-greetings{
+    font-size: 24px;
+    color: #0E0E0E;
+    font-weight: bold;
+}
+.dark-2{
+    color: #474747;
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 45px;
+}
+.banner-hero{
+    width: 474px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+   margin: 0 150px 0 150px;
+   background-color: #C6E4D6;
+   border-radius: 10px;
+   width: 1280;
+   padding: 50px;
+}
+.banner-content{
+    max-width: 622px;
 }
