@@ -78,3 +78,109 @@ nav ul{
 .banner-content{
     max-width: 622px;
 }
+/*skill styles*/
+.skills-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 160px;
+    gap: 24px;
+    
+}
+.text-center{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 160px
+}
+.skill{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06) ;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+/*section vision*/
+.text-center2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 160px
+}
+.text-center3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 160px;
+    font-weight: 200;
+
+}
+.skills-con{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 160px;
+    gap: 24px;
+}
+.background-1{
+   background-color: #cedbf4;
+   justify-content: space-between;
+   padding: 30px;
+   border-radius: 10px;
+}
+.background-2{
+ background-color: #C6E4D6;
+ justify-content: space-between;
+ padding: 30px;
+ border-radius: 10px;
+}
+.background-3{
+  background-color: #F7EBCF;
+  justify-content: space-between;
+  padding: 30px;
+  border-radius: 10px;
+}
+.btn-primary3{
+    background-color: #5490F5;
+    font-weight: 200;
+    border: 2px solid #5490F5;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px; 
+}
+.btn-primary4{
+    background-color: #09A15C;
+    font-weight: 200;
+    border: 2px solid #09A15C;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px; 
+}
+.btn-primary5{
+    background-color: #FFC239;
+    font-weight: 200;
+    border: 2px solid #FFC239;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px; 
+}
+.Yunus{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: right;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 160px;
+    font-weight: 200
+}
+.text-sub{
+    font-weight: 200
+}
+.background-y{
+    background-color: #FFFEFE;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06) ;
+
+}
